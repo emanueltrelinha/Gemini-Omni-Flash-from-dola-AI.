@@ -1,4 +1,4 @@
-# Gemini-Omni-Flash-from-dola-AI.
+# Wan-from-dola-AI.
 
 Model-Wan-Generation/
  ├── SKILL.md                          (arquivo principal — 91 linhas)
